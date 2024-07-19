@@ -1,0 +1,5 @@
+export const HOME = "/home"
+export const ABOUT = "/aboutus"
+export const SERVICE = "/service"
+export const PROJECT = "/project"
+export const BLOG = "/blog"
